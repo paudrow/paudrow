@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @audrown
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-audrown/audrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @paudrow 
+  - I'm a software engineer at [@osrf](https://github.com/osrf) 
+  - my work Github is [@audrow](https://github.com/audrow)
+- 👀 I’m interested in robotics and web dev
+- 🌱 I’m currently learning how to make a SaaS
+- 💞️ I’m looking to collaborate on designing and implementing SaaS projects
+- 📫 How to reach me: [audrow@hey.com](emailto:audrow@hey.com) or setup a meeting [here](https://calendly.com/audrow/25-minute-meeting-priority)

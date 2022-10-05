@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paudrow and this is my personal Github account
+- 👋 Hi, I’m Audrow Nash and this is my personal Github account
   - 🤖 I'm a software engineer at [@osrf](https://github.com/osrf) - my work Github is [@audrow](https://github.com/audrow)
   - 🎙️ I host a robotics podcast called [Sense Think Act](https://sensethinkact.com/)
 - 👀 I’m interested in robotics and web dev
